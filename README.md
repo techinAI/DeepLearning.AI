@@ -14,4 +14,4 @@ Created by:
 Deeplearning.AI
 
 
-[embed]https://drive.google.com/open?id=1CitnT_3tJlDFngJmrjJJgN2Dx3pDC_EX[/embed] 
+[embed]DeepLearning.AI/Coursera deeplearning.pdf[/embed] 
