@@ -14,4 +14,4 @@ Created by:
 Deeplearning.AI
 
 
-![](https://github.com/7ayden/DeepLearning.AI/blob/master/Coursera%20deeplearning.pdf)
+![alt text](https://github.com/7ayden/DeepLearning.AI/blob/master/Coursera%20deeplearning.pdf)
