@@ -12,3 +12,6 @@ We will help you master Deep Learning, understand how to apply it, and build a c
 Created by:
 
 Deeplearning.AI
+
+
+[embed]https://drive.google.com/open?id=1CitnT_3tJlDFngJmrjJJgN2Dx3pDC_EX[/embed] 
